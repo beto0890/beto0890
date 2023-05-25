@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning this virtual world! ✌🌐
+- 🌱 I’m currently learning this virtual world! ✌🌐
+- 📫I hope to learn a lot from github ⚡
 <!--
 **beto0890/beto0890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
