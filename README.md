@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 - 🌱 I’m currently learning this virtual world! ✌🌐
 - 📫I hope to learn a lot from github ⚡
+- 📧 You can reach me at A02426753@aggies.usu.edu 
+##### GO AGGIES!🐂
 <!--
 **beto0890/beto0890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
